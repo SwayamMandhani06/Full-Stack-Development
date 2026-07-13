@@ -1,10 +1,10 @@
 # Full Stack Development Lab — Practical Assignments
 
-Name: Swayam Mandhani
-Roll No: 123B1B184
-Class: B.Tech
-Division: C 
-Subject: Full Stack Development Lab (Code: BCE26VS01)
+Name: Swayam Mandhani<br>
+Roll No: 123B1B184<br>
+Class: B.Tech<br>
+Division: C <br>
+Subject: Full Stack Development Lab (Code: BCE26VS01)<br>
 
 ## Repository Description
 This repository contains all Full Stack Development Lab (FSDL) practical assignments completed so far, along with a hosted personal profile website built from the same repository.
@@ -19,10 +19,10 @@ This repository contains all Full Stack Development Lab (FSDL) practical assignm
 - [Assignment 07](./Assignment-07) — Student feedback system (React, Node.js, Express, MongoDB, JWT)
 
 ## Hosted Profile Website
-Live Link: https://swayammandhani06.github.io/Full-Stack-Development-Lab/
+Live Link: https://swayammandhani06.github.io/Full-Stack-Development/
 
 ## Repository Link
-https://github.com/SwayamMandhani06/Full-Stack-Development-Lab
+https://github.com/SwayamMandhani06/Full-Stack-Development
 
 ## Technologies Used
 Git, GitHub, GitHub Pages, HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB
